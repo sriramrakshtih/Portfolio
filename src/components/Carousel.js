@@ -16,7 +16,7 @@ class Carousel extends React.Component {
                     title: 'Fitness freak',
                     subTitle: 'The cookbook for fitness freaks',
                     imgSrc: fitness,
-                    link: 'https://www.google.com/',
+                    link: 'https://www.fitncurve.com/',
                     selected: false 
 
                 },
@@ -26,7 +26,7 @@ class Carousel extends React.Component {
                     title: 'Sriram Rakshith Kolar',
                     subTitle: 'Software Developer',
                     imgSrc: dsce,
-                    link: 'https://www.google.com/',
+                    link: 'https://github.com/sriramrakshtih',
                     selected: false 
                 },
 
